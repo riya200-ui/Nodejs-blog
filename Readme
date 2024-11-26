@@ -1,0 +1,20 @@
+node -v
+npm i bcrypt connect-mongo cookie-parser dotenv express express-ejs-layouts express-session jsonwentoken method-override mongoose
+npm i nodemon --save-dev
+npde code .
+
+package.json==>
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js",
+    "dev": "nodemon app.js"
+  },
+
+  http://localhost:5000/
+
+  https://fonts.google.com/selection/embed
+
+mongodb atlas
+mongodb+srv://riyapanchal2021:Chaku%40216@cluster0.cra2s.mongodb.net/ 
+  Chaku@216
+  riyapanchal2021
